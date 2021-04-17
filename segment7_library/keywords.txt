@@ -1,0 +1,30 @@
+﻿#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+segment7	KEYWORD1	segment7
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+PinSetup	KEYWORD2
+zero	KEYWORD2
+one	KEYWORD2
+two	KEYWORD2
+three	KEYWORD2
+four	KEYWORD2
+five	KEYWORD2
+six	KEYWORD2
+seven	KEYWORD2
+eight	KEYWORD2
+nine	KEYWORD2
+nothing	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
